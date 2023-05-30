@@ -1,0 +1,17 @@
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop.csproj.AssemblyReference.cache
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\Windows\Authorization.g.cs
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\App.g.cs
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop_MarkupCompile.cache
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop_MarkupCompile.lref
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\bin\Debug\TkaniShop.exe.config
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\bin\Debug\TkaniShop.exe
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\bin\Debug\TkaniShop.pdb
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\Windows\Authorization.baml
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop.g.resources
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop.Properties.Resources.resources
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop.csproj.GenerateResource.cache
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop.csproj.CoreCompileInputs.cache
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop.exe
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\TkaniShop.pdb
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\Windows\Product.g.cs
+C:\Users\liza-\source\repos\TkaniShop\TkaniShop\obj\Debug\Windows\Product.baml

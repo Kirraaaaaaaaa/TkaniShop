@@ -1,0 +1,19 @@
+﻿<Window x:Class="TkaniShop.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TkaniShop"
+        mc:Ignorable="d"
+        Title="Authorization" MinHeight="720" MinWidth="1280"
+        WindowStartupLocation="CenterOwner"
+        WindowState="Maximized">
+    <Grid>
+        <Viewbox>
+        <StackPanel Margin="150" Background="PeachPuff">
+                <Label Content="Добро пожаловать в магазин тканей!" FontSize="15" FontFamily="Comic Sans MS"/>
+                <Button x:Name="Authorization_BTN" Content="Войти" HorizontalAlignment="Center" ToolTip="Нажмите, чтобы войти :)" Click="Authorization_BTN_Click" Width="100" Height="40" FontFamily="Comic Sans MS" Background="MediumPurple"/>
+            </StackPanel>
+        </Viewbox>
+    </Grid>
+</Window>
